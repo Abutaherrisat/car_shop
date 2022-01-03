@@ -4,7 +4,7 @@
 [car-point](https://car-point-806ab.web.app/)
 
 # Description
-It is a MERN stack web application where you can order cars online easily. If you click on buy now button you will be redirected to login page and after login you can buy cars, can see your order as a consumer and you can add, manage cars to your showroom as an admin. 
+It is a MERN stack web application where you can order cars online easily. If you click on buy now button you will be redirected to login page and after login you can buy cars, can see your order as a consumer and you can add, manage cars to your showroom as an admin.
 
 # Features
 - used mongodb for database.
