@@ -22,7 +22,7 @@ const AddCar = () => {
             <textarea {...register("description")} placeholder="description" />
             <input type="number" {...register("price")}placeholder="price" />
             <input {...register("img")}placeholder ="img url" />
-            <input type="submit" className="btn btn-primary" />
+            <input type="submit" className="btn btn-primary"/>
         </form>
     </div>
     );
